@@ -19,7 +19,7 @@ echo '
                                    github.com/Umair8906
                            
 ' | lolcat                           
- echo -e "\e[1;31m [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m Youtube.com/c/H4Ck3R0\e[0m"
+ echo -e "\e[1;31m [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m youtube.com/@CyberHunter-513\e[0m"
  echo -e "\e[34m[\e[92m✓\e[34m]\033[92m INSTALLING REQUIREED PACKAGES"
  sleep 6.0
  apt install nodejs nano yarn -y
@@ -27,7 +27,7 @@ echo '
                  
                   toilet -F border -f mono12  "Apktool"  | lolcat
                   printf ""
-                  printf "\e[1;34m[*] \e[1;96mcreated by \e[1;33m Raj Aryan ( @h4ck3r_0 )\e[0m"
+                  printf "\e[1;34m[*] \e[1;96mcreated by \e[1;33m UMAIR )\e[0m"
               
                   
 cd /data/data/com.termux/files/usr/share/
@@ -43,7 +43,7 @@ cd /data/data/com.termux/files/usr/share/lemon/
 yarn add expressjs
 clear
 echo -e "\e[34mINSTALLED SUCCESSFULLY....[\e[92m✓\e[34m]\e[92m"
-echo -e "\e[34mTHANKS TO D3VL[\e[92m✓\e[34m]\e[92m"
+echo -e "\e[34mTHANKS TO hunter[\e[92m✓\e[34m]\e[92m"
 sleep 5.0
 clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
