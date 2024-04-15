@@ -49,5 +49,5 @@ clear
 echo -e "\e[1;34m[√] \e[96mType Lemon To Start Server\e[0m"
 
 
-termux-open-url https://www.h4ck3r.me/
+termux-open-url https://t.me/Cyber_Hunter_5
 
